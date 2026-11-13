@@ -1,0 +1,8 @@
+{
+  "name": "911 Men's Accessories Club",
+  "description": "911 Men's Accessories Club — Quiet confidence, timeless details, and refined men's accessories in Egypt. Where heritage meets modern precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
